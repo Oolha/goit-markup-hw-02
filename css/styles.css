@@ -12,15 +12,11 @@ a {
 button {
     cursor: pointer;
 }
-img {
-    display: block;
-}
 .logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
-    line-height: 1.16667;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -78,14 +74,13 @@ img {
 .order-serv-btn:focus {
     background-color: #404bbf;
 }
-
 .feature-list-title {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
 .feature-list-text {
     font-family: "Roboto", sans-serif;
@@ -95,7 +90,7 @@ img {
     color: #434455;
 }
 .team {
-    background-color: #f4f4fd;
+    background-color: #FFFFFF;
 }
      .section-team-title {
     font-family: "Roboto", sans-serif;
